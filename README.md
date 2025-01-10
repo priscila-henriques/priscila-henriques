@@ -4,14 +4,14 @@
 -🌍 **Localização:** Brasil/ I am of the world|
 -🦭 **Objetivo:** Analista de Dados | Python, SQL, IA e Marketing | Insights que Movem Negócios
 -🌟 **Habilidades:**
-🔹 Python, SQL (PostgreSQL, MySQL, SQL Server, Oracle)
-🔹 Bancos de Dados, Google Colab, Git/GitHub
-🔹 Coleta e preparação de dados
+🔹 - Python, SQL (PostgreSQL, MySQL, SQL Server, Oracle)
+🔹 - Bancos de Dados, Google Colab, Git/GitHub
+🔹 - Coleta e preparação de dados
 
-💡 Qualidade de Software
-🔸 Testes funcionais, regressão, integração, API e unitários
-🔸 Metodologias ágeis: Scrum, Kanban, SAFe
-🔸 Ferramentas: Jira, Trello, Azure DevOps, TestLink, Xray, Zephyr, Quality Center
+-💡 Qualidade de Software
+🔸- Testes funcionais, regressão, integração, API e unitários
+🔸- Metodologias ágeis: Scrum, Kanban, SAFe
+🔸- Ferramentas: Jira, Trello, Azure DevOps, TestLink, Xray, Zephyr, Quality Center
 
 - 🚀 **Objetivo atual:** Expandir minha carreira como Analista de Dados com foco em Estratégia de Negócio & Marketing.
 
