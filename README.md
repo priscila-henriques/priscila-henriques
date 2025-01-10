@@ -1,4 +1,4 @@
-# 👋 Olá! Me chamo Priscila Henriques
+# 👋 Priscila Henriques, Estratégia Digital e Analista de Dados
 🌍 **Localização:** Brasil/Portal da Amazônia / I am of the world  
 
 ---
