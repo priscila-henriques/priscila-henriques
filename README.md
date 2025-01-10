@@ -40,6 +40,11 @@ Expandir minha carreira como **Analista de Dados**, com foco em **Estratégia de
 - ![Kanban](https://img.shields.io/badge/Kanban-F4A261?style=for-the-badge&logo=kanban&logoColor=white)  
 - ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)  
 - ![Git](https://img.shields.io/badge/Git-F05032?style=f)
+- ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-FF6F00?style=for-the-badge&logo=googleanalytics&logoColor=white)  
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+- ![Miro](https://img.shields.io/badge/Miro-7B5B29?style=for-the-badge&logo=miro&logoColor=white)  
+- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+
 
 ## 🌟 Projetos em Destaque
 - **Automação de Processos com Python e Selenium**  
