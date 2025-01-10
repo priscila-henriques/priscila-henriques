@@ -1,12 +1,12 @@
 # 👋 Olá! Me chamo Priscila Henriques
 
 ## 📝 Sobre mim
-- 🌍 **Localização:** Brasil/ I am World |
--     **Objetivo:** Trabalhar com Qualidade de Software e Design.
+- 🌍 **Localização:** Brasil/ I am of the world|
+- 🦭 **Objetivo:** Analista de Dados | Python, SQL, IA e Marketing | Insights que Movem Negócios
 - 🌟 **Habilidades:**
-  - Automação de testes, modelagem de dados, construção de interfaces
-  - Testes de API, criação de dashboards e análise de dados
-- 🚀 **Objetivo atual:** Expandir minha carreira como Product Designer com foco em qualidade.
+Python, SQL (PostgreSQL, MySQL, SQL Server, Oracle), bancos de dados, Google Colab, Git/GitHub, coleta e preparação de dados.
+Em Qualidade de Software, tenho experiência em testes funcionais, de regressão, de integração, API, e unitários, além de metodologias ágeis como Scrum, Kanban e SAFe. Trabalho com ferramentas de gestão como Jira, Trello, Azure DevOps, e TestLink, Xray, Zephyr, Quality Center para gerenciamento de testes e controle de defeitos.
+- 🚀 **Objetivo atual:** Expandir minha carreira como Analista de Dados com foco em Estratégia de Negócio & Marketing.
 
 ## 🔧 Tecnologias e Ferramentas
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
