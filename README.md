@@ -53,5 +53,5 @@ Expandir minha carreira como **Analista de Dados**, com foco em **Estratégia de
   Explorei métricas de qualidade e indicadores-chave, criando relatórios interativos.
 
 ## 📞 Conecte-se comigo!  
-[GitHub](#) | [LinkedIn](https://www.linkedin.com/in/priscila-ribeiro-%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%80%EF%B8%8F%F0%9F%90%9E%F0%9F%93%88-b71396242/) | [Portfolio](#) | [Email: pribeirohenri@gmail.com]
+[GitHub](https://github.com/priscila-henriques) | [LinkedIn](https://www.linkedin.com/in/priscila-ribeiro-%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%80%EF%B8%8F%F0%9F%90%9E%F0%9F%93%88-b71396242/) | [Portfolio](https://priscila-henriques.github.io/) | [Email: pribeirohenri@gmail.com]
   
