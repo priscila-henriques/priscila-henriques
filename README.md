@@ -42,7 +42,6 @@ Expandir minha carreira como **Analista de Dados**, com foco em **Estratégia de
 - **Dashboard de Análise de Qualidade (Power BI)**  
   Explorei métricas de qualidade e indicadores-chave, criando relatórios interativos.
 
-## 📞 Contato
-- 📧 Email: pribeirohenri@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/priscila-ribeiro-%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%80%EF%B8%8F%F0%9F%90%9E%F0%9F%93%88-b71396242/)
+## 📞 Conecte-se comigo!  
+[GitHub](#) | [LinkedIn](#) | [Portfolio](#) | [Email: pribeirohenri@gmail.com]
   
