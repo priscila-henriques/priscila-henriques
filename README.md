@@ -1,21 +1,26 @@
 # 👋 Olá! Me chamo Priscila Henriques
 
 ## 📝 Sobre mim
--🌍 **Localização:** Brasil/ I am of the world|
--🦭 **Objetivo:** Analista de Dados | Python, SQL, IA e Marketing | Insights que Movem Negócios
--🌟 **Habilidades:**
-🔹 - Python, SQL (PostgreSQL, MySQL, SQL Server, Oracle)
-🔹 - Bancos de Dados, Google Colab, Git/GitHub
-🔹 - Coleta e preparação de dados
+# 🌍 **Localização:** Brasil / I am of the world  
+🌟 **Objetivo:** Analista de Dados | Python, SQL, IA e Marketing | Insights que Movem Negócios
+---
+## 💡 **Habilidades Técnicas**
 
--💡 Qualidade de Software
-🔸- Testes funcionais, regressão, integração, API e unitários
-🔸- Metodologias ágeis: Scrum, Kanban, SAFe
-🔸- Ferramentas: Jira, Trello, Azure DevOps, TestLink, Xray, Zephyr, Quality Center
+🔹 **Linguagens e Ferramentas**  
+- Python, SQL (PostgreSQL, MySQL, SQL Server, Oracle)  
+- Bancos de Dados, Google Colab, Git/GitHub  
+- Coleta e preparação de dados  
 
-- 🚀 **Objetivo atual:** Expandir minha carreira como Analista de Dados com foco em Estratégia de Negócio & Marketing.
+🔹 **Qualidade de Software**  
+- Testes funcionais, regressão, integração, API e unitários  
+- Metodologias ágeis: Scrum, Kanban, SAFe  
+- Ferramentas: Jira, Trello, Azure DevOps, TestLink, Xray, Zephyr, Quality Center  
 
-## 🔧 Tecnologias e Ferramentas
+---
+## 🚀 **Objetivo Atual**  
+Expandir minha carreira como **Analista de Dados**, com foco em **Estratégia de Negócios & Marketing**, aplicando **Python**, **SQL**, **Inteligência Artificial** e insights para impulsionar decisões estratégicas e melhorar resultados.
+
+---
 ### Tecnologias e Ferramentas  
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 - ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
