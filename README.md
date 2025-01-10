@@ -2,7 +2,7 @@
 🌍 **Localização:** Brasil/Portal da Amazônia / I am of the world  
 
 ---
-### 🚀 Objetivo 
+### 🦭 Objetivo 
 Analista de Dados | Python, SQL, IA e Marketing | Insights que Movem Negócios.
 
 ---
