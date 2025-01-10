@@ -39,7 +39,7 @@ Expandir minha carreira como **Analista de Dados**, com foco em **Estratégia de
 - ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)  
 - ![Kanban](https://img.shields.io/badge/Kanban-F4A261?style=for-the-badge&logo=kanban&logoColor=white)  
 - ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)  
-- ![Git](https://img.shields.io/badge/Git-F05032?style=f
+- ![Git](https://img.shields.io/badge/Git-F05032?style=f)
 
 ## 🌟 Projetos em Destaque
 - **Automação de Processos com Python e Selenium**  
