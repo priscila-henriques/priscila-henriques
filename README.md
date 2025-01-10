@@ -12,6 +12,7 @@
 🔸 Testes funcionais, regressão, integração, API e unitários
 🔸 Metodologias ágeis: Scrum, Kanban, SAFe
 🔸 Ferramentas: Jira, Trello, Azure DevOps, TestLink, Xray, Zephyr, Quality Center
+
 - 🚀 **Objetivo atual:** Expandir minha carreira como Analista de Dados com foco em Estratégia de Negócio & Marketing.
 
 ## 🔧 Tecnologias e Ferramentas
