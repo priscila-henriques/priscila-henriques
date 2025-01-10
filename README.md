@@ -1,5 +1,6 @@
 # 👋 Olá! Me chamo Priscila Henriques
 🌍 **Localização:** Brasil/Portal da Amazônia / I am of the world  
+
 ---
 ### 🚀 Objetivo 
 Analista de Dados | Python, SQL, IA e Marketing | Insights que Movem Negócios.
@@ -7,10 +8,13 @@ Analista de Dados | Python, SQL, IA e Marketing | Insights que Movem Negócios.
 ---
 ## 💡 **Habilidades Técnicas**
 
-🔹 **Linguagens e Ferramentas**  
+🔹 **Análise de Dados**  
 - Python, SQL (PostgreSQL, MySQL, SQL Server, Oracle)  
 - Bancos de Dados, Google Colab, Git/GitHub  
-- Coleta e preparação de dados  
+- Coleta e preparação de dados
+- Criação de Relatórios e Dashboards
+- Análise Exploratória de Dados (EDA)
+- Análise Estatística e Modelagem de Banco de Dados
 
 🔹 **Qualidade de Software**  
 - Testes funcionais, regressão, integração, API e unitários  
