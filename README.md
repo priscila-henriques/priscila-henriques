@@ -1,10 +1,6 @@
 # 👋 Olá! Me chamo Priscila Henriques
-
-## 📝 Sobre mim
-
 ### 🌍 **Localização:** Brasil / I am of the world  
-
-## 🚀 **Objetivo: **  
+### 🚀 Objetivo: 
 Analista de Dados | Python, SQL, IA e Marketing | Insights que Movem Negócios.
 
 ---
