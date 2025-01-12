@@ -1,5 +1,5 @@
 # 👋 Priscila Henriques, Estratégia Digital e Analista de Dados
-🌍 **Localização:** Brasil/Amazônia / I am of the world  
+🌍 **Localização:** Brasil/ Amazônia / I am of the world  
 
 ---
 ### 🦭 Objetivo 
